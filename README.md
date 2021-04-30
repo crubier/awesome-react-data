@@ -2,7 +2,7 @@
 
 Collection of awesome tools and resources for building flexible data-oriented react applications and UIs.
 
-Criteria:
+## Criteria
 
   - React components / hooks / libraries, not full blown frameworks
   - Open source license, available on Github and NPM
